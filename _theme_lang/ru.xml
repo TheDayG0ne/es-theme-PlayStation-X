@@ -6,7 +6,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
   
   <variables lang="ru">
     <theme.welcome>Добро пожаловать в Playstation X для</theme.welcome>
-    <theme.start>Пуск</theme.start>
+    <theme.start>Запуск</theme.start>
     <theme.mostplayed>Самая запускаемая:</theme.mostplayed>
     <theme.items>Элементы:</theme.items>
     <theme.collections>Коллекции</theme.collections>
@@ -57,7 +57,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
     <theme.videoSnapAudio>Включить звук в видеофрагментах</theme.videoSnapAudio>
     <theme.animatedList>Анимированные переходы в списке игр</theme.animatedList>
     <theme.animatedSystem>Анимированные переходы в списке систем</theme.animatedSystem>
-    <theme.aspect-ratio>Соотношение Сторон Экрана</theme.aspect-ratio>
+    <theme.aspect-ratio>Соотношение сторон экрана</theme.aspect-ratio>
     <theme.oversizeVideoOption>В большом окне</theme.oversizeVideoOption>
     <theme.bato35compatilble>Совместимо только с Batocera 35 или выше</theme.bato35compatilble>
     <theme.netplay-required>Пожалуйста, включите сетевую игру, чтобы показать свое имя пользователя или выберите другой ник в настройках темы</theme.netplay-required>
@@ -113,7 +113,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
     <theme.japan>Япония</theme.japan>
     <theme.overlayExtra>Показать наложенные изображения в представлении систем</theme.overlayExtra>
     <theme.gamelistOverlayExtra>Показать наложенные изображения в списке игр</theme.gamelistOverlayExtra>
-    <theme.nonumbers>Без номеров версии и года</theme.nonumbers>
+    <theme.nonumbers>Без отображения версии и года</theme.nonumbers>
     <theme.highVramRequired>(требуются высокие значения VRAM)</theme.highVramRequired>
   </variables>
 </theme>
