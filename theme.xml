@@ -170,7 +170,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 		<include name="linkzelda" displayName="Link (Zelda)" />
 		<include name="megaman" displayName="Mega-Man" />
 		<include name="nathandrake" displayName="Nathan Drake" />
-		<include name="ProjectArcade" displayName="ProjectArcade" />
+		<include name="projectarcade" displayName="ProjectArcade" />
 		<include name="recalbox" displayName="Recalbox" />
 		<include name="retroarch" displayName="RetroArch" />
 		<include name="retrobat" displayName="Retrobat" />
